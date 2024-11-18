@@ -4,8 +4,8 @@ The goal of our project is to develop a Discord bot capable of transcribing, tra
 ## TODOs
 1. Set up your dev environment
 ```bash
-conda create --name "aicomp" python=3.11.9
-conda activate aicomp
+conda create --name "notebot" python=3.11.9
+conda activate notebot
 pip install -r requirements.txt
 ```
 
