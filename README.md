@@ -7,5 +7,6 @@ The goal of our project is to develop a Discord bot capable of transcribing, tra
 conda create --name "aicomp" python=3.11.9
 conda activate aicomp
 pip install -r requirements.txt
+```
 
 2. Create the `.env` file. You have an example here `example.env` and place your required usernames and keys in it. 
